@@ -1,0 +1,386 @@
+[
+  {
+    "input": "Get a list of all assets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you show me all the assets recorded in the system?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch all registered assets, including both tangible and intangible ones.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve all assets owned by different accounts and contacts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show me every asset, from computers to software licenses.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "List all company-owned assets, including hardware and software.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up all assets currently in the system, sorted by type.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve all software licenses stored in the assets list.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets registered under our corporate accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Get me a complete list of all assets, including warranties and support details.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch all tangible assets, such as computers and servers.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve every asset that falls under the 'IT Equipment' category.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show me all intangible assets like software subscriptions and licenses.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "List all assets along with their assigned owners.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you get me a list of all assets that have been recently added?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets that are currently active and in use.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch all assets assigned to our clients and partners.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up all registered products and services owned by our accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve all hardware assets, such as laptops, desktops, and servers.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show all assets associated with a particular household or business unit.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets that are currently under warranty or have support contracts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Get a breakdown of all company-owned assets, categorized by type.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch all assets along with their last maintenance or renewal dates.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you get me a list of assets that have been marked as 'obsolete'?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you retrieve a list of all assets we own?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show me every asset currently recorded in our system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch all active assets, including both tangible and intangible ones.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up a full list of assets categorized by type.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Get a detailed breakdown of all registered assets owned by our company.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "I need to see all assets that have been recently added to our inventory.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets that are currently assigned to employees.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show me all company-owned software licenses and their renewal dates.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve a full list of IT assets, including computers, servers, and networking devices.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up a list of all assets along with their depreciation status.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find every asset currently under a warranty or service contract.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you get me a list of all financial assets owned by our organization?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch all tangible company assets, including office furniture and electronics.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve all assets that have been marked as 'high-value' or critical to operations.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "List all assets associated with active accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Get a report of all assets that have been scheduled for maintenance.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets that are nearing the end of their lifecycle.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show all assets that were purchased in the last fiscal year.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up a list of assets that are due for replacement within the next six months.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve all assets currently leased or rented by the company.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you fetch all assets that belong to a specific department?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show all assets marked as 'inactive' or no longer in use.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets that have been transferred between departments in the last year.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Give me a complete list of all assets in our system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you fetch all assets owned by our company?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show me all products and services categorized as assets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve a full breakdown of every company asset currently in use.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up the latest asset list, including tangible and intangible ones.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "List all company-owned software and hardware assets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Get all registered assets sorted by their category.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets linked to customer accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch all fixed and movable assets stored in the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Get an overview of all company assets with their purchase dates.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you show me all assets marked for maintenance?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all digital assets, such as software licenses and subscriptions.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up all company-owned vehicles listed under assets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve all assets tagged under 'IT Infrastructure'.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show all office furniture assets currently available.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "List all high-value company assets with their current owners.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets due for warranty renewal this quarter.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch all tangible assets, including machinery and office equipment.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve assets categorized as 'leased' instead of company-owned.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find assets that are no longer in active use.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show me assets that were purchased in the last two years.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you list all assets owned by external stakeholders?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Get details of all company laptops assigned to employees.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you show me the complete list of assets?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": " show me the assets?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you get me the assets?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch all products and services that we own.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "I need an inventory of all assets in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show me a report of all tangible and intangible assets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "List all assets currently being used by employees.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up a breakdown of all company-owned assets, categorized by type.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Get details on every asset registered under company accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve all hardware and software assets from the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you get me a list of assets along with their purchase dates?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets that have been purchased in the last 12 months.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show all assets associated with ongoing contracts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up all assets that have been assigned to departments.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Fetch a list of all digital assets and software licenses.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "List all the assets that have exceeded their expected lifespan.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show all assets and their last maintenance date.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve all inactive assets from the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find me all company assets with a pending renewal.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show a list of assets sorted by ownership.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Get me all assets used in customer service operations.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Pull up all assets that have been marked for disposal.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Find all assets that are linked to subscription-based services.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Can you get me a list of all leased assets?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Retrieve all financial assets stored in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  },
+  {
+    "input": "Show me all assets owned by external partners.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/assets\" }"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "input": "Get all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Show me all MDF budgets available for partner marketing activities.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Fetch all MDF budget allocations for the current quarter.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "List all marketing development funds distributed to partners.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve details of all MDF budgets",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Can you pull up a list of all MDF budgets issued this year?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Fetch all active MDF budget",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Show me all MDF budget requests that have been approved.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve a list of MDF budgets assigned to different partner organizations.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Get a breakdown of MDF budgets, including allocated, used, and remaining funds.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Find all MDF budgets that were assigned but not yet spent.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve all marketing development funds distributed in the last fiscal year.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Get all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Show me all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Fetch all available MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "List all MDF budgets in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve a list of all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Pull up all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "I need all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Find all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Can you show me all MDF budgets?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve all MDF budgets from the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Get the full list of MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Show the entire MDF budget list.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Fetch all existing MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Give me all MDF budgets available.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "I want to see all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Find every MDF budget in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve every MDF budget.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Give me the complete MDF budget list.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Get me a report of all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Pull all MDF budgets from the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve every single MDF budget.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "I need to view all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Can you list every MDF budget for me?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Display all MDF budgets in the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Fetch the full MDF budget records.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Get me the MDF budgets data.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve all MDF budgets stored in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Can you get me all MDF budgets available in the system?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "I need a list of all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Fetch all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve all available MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Get me the complete list of MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Show me all MDF budgets in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "I need a list of all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Find every MDF budget in the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Pull up the full MDF budget records.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Can you show me all MDF budgets?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve all stored MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Fetch the entire MDF budget list.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "List all MDF budgets from the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve every MDF budget record available.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Show the full list of MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "I want all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Get me all MDF budget records.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Show all MDF budgets without any filters.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Display every MDF budget stored in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Find all MDF budgets that exist in the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Retrieve the MDF budgets list.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Give me access to all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Can you fetch every MDF budget available?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "I need to see all MDF budgets that are available.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Pull all MDF budgets into a list.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Find and display all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Give me an overview of all MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Fetch the complete MDF budget dataset.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Show me the stored MDF budgets.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Pull up all MDF budget data.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  },
+  {
+    "input": "Get every MDF budget entry.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/mdfBudgets\" }"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "input": "Can you fetch financial details for all our customers?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need financial records of our customers. Can you retrieve them?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show me financial insights for every customer we have.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Fetch all financial data related to our customers, including credit limits and balances.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get me a summary of financial details for each customer in the system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve financial status and transaction history of all registered customers.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I want to see financial reports for each customer account.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you get me a breakdown of financial data for all our clients?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Pull up financial customer information, including payment history and outstanding balances.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show financial data for every active customer in our system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get the financial status of each customer, including their credit scores if available.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Give me all customer financial records, sorted by highest revenue accounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Fetch financial details for every customer, including their payment trends.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Pull financial insights for our top 100 customers based on revenue.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve financial customer details, including their risk category.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Find financial details of customers who have pending invoices.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Give me an overview of financial standing for all our clients.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show me a list of customers with outstanding payments and their balances.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get a report on all customers with overdue invoices.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve credit scores for all customers with financial accounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show me all financial accounts that have been flagged for review.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get me financial transaction summaries for every customer in our system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Pull up financial records and see if there are any discrepancies.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Hey, can you pull up financial details for all our customers?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need a quick summary of financial records for every customer in our system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you fetch financial data for all clients, including payment history and outstanding balances?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Give me an overview of the financial health of our customers.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve detailed financial records of every customer in our database.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show me a financial report for all customers, sorted by their account balance.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I want to see the financial standing of each customer. Can you get that for me?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Fetch financial details for all customers, including revenue and credit risk status.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you show me a breakdown of each customer’s financial activities?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Find me all customers with overdue payments and their outstanding balances.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Pull up financial insights for our top 50 customers based on revenue.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need financial data for all active customers, including their recent transactions.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get me a full report on customers who have pending invoices.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "How many customers have outstanding payments? Show me their financial details.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve financial records for all customers who have been inactive for over a year.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Pull up the financial history of all customers, sorted by total transactions.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you fetch customer financial details, including their last transaction date?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Find me customers who have high credit limits and their recent payment records.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show me a financial report that highlights customers with overdue invoices.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need a quick list of customers with large financial transactions in the past month.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get me a list of customers who are financially inactive.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Pull up financial profiles for customers who have requested a credit line increase.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve financial history for customers who have been flagged for risk review.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Hey, can you check the financial details for all our customers?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need a full financial report on all our customers. Can you pull that up?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show me financial insights for every customer in our system, including their payment trends.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you fetch the financial history of all our customers?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get me financial data for each customer, including outstanding balances and credit limits.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need to see all customers with pending invoices. Can you pull that data?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Fetch a financial overview of all customers and sort them by total revenue.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you pull up a report showing the financial transactions of our top customers?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve financial reports for customers who have a high credit risk.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Find all customers with overdue payments and their outstanding amounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need a detailed report of customer transactions for the last six months.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get a financial summary for every active customer in the system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show me all customers who have been inactive financially for more than a year.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Pull up a list of customers whose financial risk category has changed recently.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve the financial records of customers who have requested a loan.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you fetch financial profiles of customers flagged for payment delays?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Find me customers who have made payments exceeding $100,000 this year.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Pull up the financial standings of customers who have defaulted on payments before.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show me financial statements for all business accounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve financial information for customers who have outstanding loans.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you provide an overview of customer accounts with high financial activity?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get me financial reports for customers whose revenue increased significantly this quarter.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Find all financial customers who have exceeded their credit limit.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need to see a financial risk assessment report for all clients.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get financial data for all customers.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "show me the  financial data for all customers.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "can you list the  financial data for all customers.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get financial details of all customers.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "can you show me the finantial customers",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you fetch financial summaries for every customer in our system?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show me financial records of all active customers.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve financial details including outstanding balances for each customer.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need a report of all customers' financial transactions for the last quarter.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Fetch financial history for customers who have requested a credit increase.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "List customers with unpaid invoices and their pending amounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Find all financial customers whose revenue exceeded $1M this year.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show the last payment records for all customers in the database.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve a breakdown of customer accounts with their payment statuses.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get me the financial summary for our top 50 high-value clients.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Pull up all customers who have missed a payment in the last six months.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you show financial profiles of customers with high credit utilization?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve financial standing for every customer sorted by risk score.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Get financial histories for customers who made large purchases this year.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Find customers with increasing payment delays and list their financial status.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Fetch financial trends for customers whose revenue is declining.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Can you pull up customer financial data sorted by their total annual transactions?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Show financial statements of customers with outstanding loans over $500K.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Retrieve financial records for customers who recently closed their accounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "Find all customers who have exceeded their credit limit in the last three months.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  },
+  {
+    "input": "I need to see a financial analysis report for all clients with payment irregularities.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/getFinancialCustomerInfo\" }"
+  }
+]

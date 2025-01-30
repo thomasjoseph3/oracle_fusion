@@ -1,0 +1,278 @@
+[
+  {
+    "input": "Fetch all recorded activities.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Can you retrieve a list of all planned and completed activities?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Show me every activity that has been logged in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "I need to see all past and upcoming tasks and appointments.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "List every completed and pending activity from the CRM.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Pull up all activity logs, including customer calls and meetings.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve all tasks, meetings, and logged activities for review.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Can you get a list of all scheduled and completed CRM activities?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Fetch all upcoming and past activities for our sales team.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Show me all recent customer interactions and tasks from the CRM.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve a full list of all appointments, tasks, and follow-ups recorded in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Get all activities related to customer support interactions.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "List all planned and completed activities, sorted by date.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Fetch all sales-related activities, including follow-ups and meetings.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "I want to see a list of all tasks and meetings scheduled in the CRM.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Pull up a report of all completed customer calls and follow-ups.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Get a summary of all pending and finished sales activities.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve all activity logs related to high-priority customer accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Show me all customer interactions that were marked as completed.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Find all past activities and sort them by customer name.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "List all activities that were completed in the last 30 days.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Get an overview of all scheduled meetings and tasks for this week.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve all customer follow-ups that were marked as 'high priority'.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Get a list of all activities recorded in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Can you show me all the tasks and appointments scheduled?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Fetch every activity that has been logged in the CRM, including past and future events.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "I need to see a history of completed and pending activities.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Show me all customer-related activities from the past two months.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve all tasks, calls, and meetings logged in the CRM.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Pull up all scheduled activities, including follow-ups and reminders.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Get an overview of all planned and completed CRM activities for this month.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "List all customer interactions that were logged as activities.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Can you retrieve all meetings, calls, and tasks scheduled for this week?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Find all activities marked as urgent.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Fetch all past activities related to key accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Show all activities assigned to me for this quarter.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve a full list of customer follow-ups completed by our team.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Get a detailed log of all interactions with VIP clients.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Pull up a report of all sales-related activities for the last 90 days.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "List all activities related to ongoing projects.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve details of all meetings scheduled with customers.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Find all past activities where customer concerns were logged.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Can you show me a list of activities filtered by category?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Fetch all completed activities related to customer escalations.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve all activities where tasks were marked as postponed or rescheduled.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Get all scheduled activities for next week.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Show me all the activities logged in the CRM.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Fetch all tasks, meetings, and follow-ups for this month.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Can you pull up a list of all scheduled and completed activities?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve every activity record, including customer calls and internal tasks.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "I need to see all follow-ups and appointments recorded in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "List all activities assigned to the sales team.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Get me a summary of all CRM activities for the last quarter.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Show all logged customer interactions from the past three months.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve all recorded activities related to high-priority clients.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Pull up a list of all tasks that have been marked as completed.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Can you get me all activities categorized under 'urgent'?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Fetch all scheduled activities for the upcoming week.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Find all tasks and meetings assigned to me.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Show me all customer-related follow-ups in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve a report of all past and future CRM activities.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "I need to see a list of activities sorted by their creation date.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Fetch all completed customer calls and emails.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Pull up all recorded interactions for key accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Find every activity tagged as 'high priority'.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Get a breakdown of all activities related to product demos.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Retrieve details of all overdue tasks in the CRM.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "List all past and upcoming activities for the support team.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  },
+  {
+    "input": "Show all follow-ups scheduled for next month.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/activities\" }"
+  }
+]

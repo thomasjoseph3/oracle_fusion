@@ -1,0 +1,306 @@
+[
+  {
+    "input": "Can you show me all the customer accounts we have?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Pull up a list of all accounts in our system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need to see all the accounts. Can you fetch them?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Get me a list of all customers registered in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Can you show all customer profiles in the database?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Fetch every account available in our CRM.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Give me a full list of accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "How many customer accounts do we have? Show me all of them.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "List every account we have in our system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Can you retrieve all accounts currently stored?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I want to see all accounts at once. Can you fetch them?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Show me every single account in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Get all account details for me.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Can you display all customer records in our CRM?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Pull up all the account records we have.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need a full list of accounts in our database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Bring up all customer accounts for me.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Get all account details and show them to me.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Fetch all active accounts in the CRM.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need a complete list of all customer accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Could you retrieve all accounts stored in the database?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Find all customer accounts and display them.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Can you bring up every customer account on file?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need to see every single customer profile we have.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Hey, can you pull up a list of all our customer accounts?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need to see all the accounts we have. Can you fetch them for me?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Show me every customer profile we have in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Can you get me a list of all registered accounts?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I want to see all customer records. Can you pull that up?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Fetch all active accounts in our database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Could you show me all the clients we have?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need a full list of accounts, including their details.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Give me a list of all customer profiles in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "List all the customers who have accounts with us.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Find all accounts stored in the CRM and display them for me.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need to see all our customer accounts at a glance.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "How many accounts do we have in total? Show me all of them.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Get me a list of every single customer account.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need a complete list of all business and personal accounts in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Can you bring up all the customer records in our CRM?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Fetch every customer profile we currently have on record.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need to see all account holders. Can you pull that data for me?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Let me see every account that exists in our system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Show me a summary of all customer accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Give me all the customer profiles in our database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Pull up the entire list of customer accounts for me.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need to review all account records. Can you fetch them?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Retrieve every customer account and send me the details.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Hey, I need a complete list of all the customer accounts we currently have in the system, including their details. Can you fetch that for me?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Pull up every customer profile we have, I want to review them.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Can you retrieve all customer accounts and display them in a list?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I want to see all the accounts stored in our database. Can you bring them up?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Give me the full database of all our clients, I need to go through them.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Quick question—how many accounts are registered in our system? Show me the list.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Show me a detailed breakdown of every account currently stored.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Fetch all registered customer accounts in our CRM and display their details.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Could you bring up every customer account we have and organize them alphabetically?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need an updated list of all customers stored in our system. Can you provide that?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "List all the customer accounts, sorted by the date they were added.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "How many customers are currently registered? Give me a full list of accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Could you get me all accounts that exist in our CRM system?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Retrieve every customer account we have and show them in a table format.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Pull up all customer profiles and make sure you include their contact details.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Give me all available accounts, and if possible, include their last login date.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "I need access to all customer accounts we have on file. Can you fetch them?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Show me every account stored in our CRM and include their account status.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Can you give me a quick summary of all customer accounts we have?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "How many accounts are currently active? Show me all of them.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Find all accounts registered under our business and sort them by region.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Display a full customer list, including any inactive accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Get all account records stored in our system and present them in a clean format.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "Show me all customer accounts sorted by account type (individual or business).",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "get me all accounts",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "show me all accounts",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "list all accounts",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  },
+  {
+    "input": "show the all accounts",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts\" }"
+  }
+]

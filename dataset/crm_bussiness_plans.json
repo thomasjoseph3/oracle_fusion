@@ -1,0 +1,322 @@
+[
+  {
+    "input": "Get all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Fetch all business plans available.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Retrieve every business plan in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Show me all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "List all business plans stored in the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Pull up a list of all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Find all business plans recorded in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Give me the complete list of business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Can you fetch all business plans?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Retrieve all business plans stored in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Get a full list of all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Show all business plans without any filters.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Find every business plan available.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Retrieve all business plans recorded so far.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Give me access to all business plans in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Can you list all business plans?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Show me all stored business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Pull all business plans from the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Fetch every business plan that has been created.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Get the complete collection of business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Retrieve all business plans on record.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Find and display all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Show me every business plan stored in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "List all existing business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Fetch all business plans that have been documented.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Give me all business plans available in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Pull up all business plans from the records.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Retrieve all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Fetch all available business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Get me the list of all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Show all business plans stored in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Pull up every business plan.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "List all business plans recorded in the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Can you show me all business plans?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Find and display all business plans in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Pull up all business plans stored so far.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Get a full report of every business plan available.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "List every business plan that exists in the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Can you retrieve all business plans for me?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I need to see all business plans that are currently in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Find all business plans and display them.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Pull all business plans into a single list.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Retrieve every recorded business plan.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Get every business plan that has been created.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I want a list of all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Show me all business plans without any filters.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Display the full business plan list.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Retrieve every business plan stored in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Can you fetch me all business plans?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "List every business plan that is currently recorded.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I need access to all business plans in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Fetch all existing business plans in the database.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Find and retrieve all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Can you get me all the business plans?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Give me all business plans available in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Can you show me all the business plans we have?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I'd like to see a list of all business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Pull up every business plan stored in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Do we have a record of all business plans? Show me.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I need an overview of all available business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Fetch the entire list of business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "What business plans do we currently have? List them for me.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I want to review all business plans in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Give me access to all business plans on record.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Show the full list of business plans that have been created.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Can you retrieve every business plan stored so far?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I'd like to browse all business plans available in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "List all business plans that have been documented.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Can I get a complete list of all business plans?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Find and display every business plan that exists.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Bring up all business plans that are currently stored.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I'd like to review all existing business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "What business plans are on file? Show me everything.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Get me all the business plans recorded so far.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I need details of all business plans in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Give me a complete list of all business plans we have.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Show me every business plan that has been logged in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Do we have a business plan repository? Show me all entries.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "I need a breakdown of all stored business plans.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  },
+  {
+    "input": "Fetch every business plan that has been documented in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/businessPlans\" }"
+  }
+]

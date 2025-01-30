@@ -1,0 +1,290 @@
+[
+  {
+    "input": "Check if there are any duplicate accounts in the system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Find any duplicate customer records in our database.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Detect duplicate accounts in the CRM.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "show me the duplicate accounts in the crm.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "are there any duplicate customer profiles?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Find duplicate customer profiles in the system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Search for duplicate accounts in the customer database.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Check if any customer accounts are duplicated.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Look for repeated customer entries in our CRM system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Show me a list of duplicate accounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "give me the list of duplicate accounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Identify any repeated customers in the system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Can you detect any duplicate customer records?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Search for customers that have been registered more than once.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Scan the database for duplicate accounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Find and report any duplicate customer data.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Is there any customer account that appears more than once?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Identify all accounts that may be duplicates.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Retrieve a list of all duplicate accounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "List down all duplicate customer records in our CRM.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Run a check for duplicate entries in the account database.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Detect repeated customer accounts in our system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Run a duplicate account check.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Detect any duplicate entries in the CRM.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Locate duplicate customers within the database.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Search for identical accounts that exist more than once.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Hey, can you check if we have any duplicate customers?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "I think we might have some duplicate accounts. Can you find them?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Can you look for any repeated customer entries in our system?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Show me a list of any duplicate customer records we have.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Do we have customers with multiple accounts? Can you check?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Could you scan for duplicate accounts in our database?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "I need to clean up our customer list. Find any duplicates for me?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Just wondering, do we have any duplicate records in our system?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Check if there are any repeated customer accounts.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "We might have a few duplicate accounts. Can you confirm?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Are there customers with more than one account? Let me know.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Quick check—are there any duplicate customer profiles?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "I think we have some duplicate data. Can you help me find them?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Can you pull up a list of accounts that might be duplicates?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Let’s clean up the CRM. Find duplicate customer records for me.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "I want to remove redundant accounts. Can you find them?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Are there any customers in the system who have signed up twice?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "I need to merge duplicate records. Can you help me find them?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Can you search for accounts that have the same name or email?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Find all duplicate accounts in the CRM system and let me know.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Do we have any accounts that look too similar? Check for me.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Could you find accounts that might have been created twice by mistake?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Hey, I need a list of duplicate customer accounts. Can you get that?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Hey, can you help me find any duplicate customer accounts?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Do we have any duplicate customers in our system?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Check for any customer accounts that might be listed twice.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Can you go through our customer records and find duplicates?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "I have a feeling we might have some duplicate customer data. Can you confirm?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Look for any duplicate accounts and let me know if you find any.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Is there a way to detect customers who may have registered more than once?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "I want to make sure we don’t have duplicate customer records. Can you check?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "See if any of our customer records appear more than once.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Do we have any repeated customer names in the database?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Check if any customers signed up multiple times with the same details.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "See if there are any double entries in the customer list.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Can you check if anyone has created more than one account?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Let me know if you find customers that appear twice in the system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Detect duplicate accounts and list them for me.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Can you scan the system for any customers who might be duplicated?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Check for duplicate customer profiles and show me what you find.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Run a check for repeated customer details in our database.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Make sure there are no duplicate customer records in our system.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Find out if there are any duplicate accounts and send me a report.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Pull up a list of accounts that might be duplicates.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "I want to remove duplicate accounts. Can you find them for me?",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  },
+  {
+    "input": "Run a quick duplicate check on our customer database.",
+    "output": "{ \"method\": \"POST\", \"api\": \"/crmRestApi/resources/11.13.18.05/accounts/action/findDuplicates\" }"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "input": "Fetch all billing adjustments from the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Can you retrieve a list of all billing adjustments?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me every billing adjustment recorded in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "I need to see all past and recent billing adjustments.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "List all approved billing adjustments.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Pull up all pending billing adjustments for review.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve all billing adjustments related to tax corrections.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Find all discounts and promotional billing adjustments applied this quarter.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me billing adjustments made due to overcharges.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch all customer-requested billing adjustments for refunds.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve all adjustments made for incorrect invoice amounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Get a full report of all billing adjustments processed this month.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Can you list all billing adjustments that have been rejected?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch billing adjustments that are still under review.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve all credit adjustments applied to customer accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Get details of all adjustments related to early payment discounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Find all one-time adjustments made in the last six months.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Pull up all billing adjustments related to payment disputes.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me all adjustments issued due to pricing errors.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Get a list of billing adjustments sorted by date.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve all billing adjustments made to corporate accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me the latest billing adjustments added to the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Find all billing adjustments applied as goodwill credits.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Get me all billing adjustments processed in the system.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Can you show me all adjustments applied to customer invoices?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Pull up a list of all past and pending billing adjustments.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve all approved billing adjustments for the last 30 days.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch all billing adjustments related to incorrect charges.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "I need a complete list of all billing corrections applied.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me all adjustments made due to tax recalculations.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch all credit adjustments that were applied this quarter.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "List all billing adjustments linked to corporate accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Find all refunds issued due to customer disputes.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me all customer-requested billing adjustments.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve all adjustments related to promotional discounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Pull up details of every price adjustment made this year.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch all adjustments related to annual pricing updates.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Can you list all billing corrections requested by finance?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve all adjustments applied due to incorrect exchange rates.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Find every billing adjustment related to multi-year contracts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me billing adjustments linked to subscription renewals.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch all adjustments applied to government accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Pull up billing corrections applied due to system errors.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Find all pending billing adjustments awaiting approval.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve all billing adjustments issued as part of a service-level agreement.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me adjustments that were applied manually by an agent.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Get all billing adjustments.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me billing adjustments made this year.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch all billing corrections processed in the last 30 days.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Can you list all billing adjustments for tax-related changes?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Pull up all rejected billing adjustments.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me billing adjustments applied to corporate accounts.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve a complete breakdown of all billing adjustments made due to customer disputes, tax corrections, pricing errors, and promotional offers from the past quarter.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch all pending billing adjustments that have been requested but not yet approved, and show their status.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Get a summary of all billing adjustments related to refunds issued due to overcharges or incorrect invoicing.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "List all promotional billing adjustments given as part of customer loyalty programs.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Find all adjustments related to multi-year contracts and subscription renewals.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Pull up billing adjustments linked to errors in discount calculations.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve all adjustments made to invoices due to changes in product pricing.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Show me all adjustments applied due to miscalculated tax rates.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Can you list every billing adjustment that has been processed manually?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch all billing adjustments applied due to regulatory changes in tax rates.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Get details of all billing adjustments issued for customers in the premium subscription plan.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "List all adjustments applied as part of a special one-time discount campaign.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Retrieve billing adjustments that were applied as compensation for service outages.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Fetch all customer disputes that resulted in billing adjustments over the past six months.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Can you show me all adjustments where customers were refunded for duplicate payments?",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Get a report of all billing adjustments sorted by amount, from highest to lowest.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  },
+  {
+    "input": "Pull up a list of adjustments made due to early payment discounts applied incorrectly.",
+    "output": "{ \"method\": \"GET\", \"api\": \"/crmRestApi/resources/11.13.18.05/billingAdjustments\" }"
+  }
+]
