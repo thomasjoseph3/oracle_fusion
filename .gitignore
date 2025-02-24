@@ -169,3 +169,36 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+sql_venv
+oracle_model
+content
+myenv
+checkpoint-*
+dbsetup
+matched_errors.json
+deduplicated_output.json
+data.json
+dataset.json
+db_schema.py
+updated_dataset1.json
+outsidegit
+table_data.py
+exported_tables
+create_table.py
+data.json
+dataset.json
+db_schema.py
+deduplicated_output.json
+duplicates.json
+
+error_results.txt
+extract.py
+filtered_queries.json
+generate_data.py
+matched_errors.json
+prompt.txt
+prompts
+remaining_data.json
+successful_results.txt
+successful_prompts.txt
+updated_dataset_romal.json
