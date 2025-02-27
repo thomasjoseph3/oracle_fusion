@@ -18,24 +18,23 @@ const useQueryExecutor = () => {
         { prompt: query, show_suggestion: true, show_description: true }
       );
 
-      console.log({ response });
 
       const { execution_result } = response.data;
 
       if (
-        execution_result?.columns.length < 0 ||
-        execution_result?.rows.length < 0
+        execution_result?.columns?.length <= 0 ||
+        execution_result?.rows?.length <= 0
       ) {
         setMessages((prev) => [
           {
             user: false,
             no_data: true,
-            text: "No data found.",
+            text: "No data found. try the suggestions...",
+            suggestions: response?.data?.suggestions,
           },
           ...prev,
         ]);
       } else {
-        console.log(execution_result.description);
 
         const botResponse = {
           user: false,
@@ -65,8 +64,18 @@ const useQueryExecutor = () => {
         setMessages((prev) => [botResponse, ...prev]);
       }
       setLoader(false);
-    } catch (error) {
-      console.error("Error sending suggestion:", error);
+    }catch (error) {
+      console.error("Error fetching data:", error);
+      
+      setMessages((prev) => [
+        {
+          user: false,
+          error: true,
+          text: "Something went wrong. Please try again.",
+          suggestions:error.response.data.suggestions
+        },
+        ...prev
+      ]);
     }
 
     setLoader(false);

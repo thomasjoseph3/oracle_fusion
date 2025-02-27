@@ -7,13 +7,15 @@ import Table from "./components/Table";
 import Card from "./components/Card";
 import { PDFDocument } from "pdf-lib";
 import { saveAs } from "file-saver";
+import Suggestions from "./components/Suggestions";
 import useQueryExecutor from "./hooks/useQueryExecutor";
-
+import { useMessages } from "./context/MessageContext";
 const Component = ({ message }) => {
   const divRef = useRef();
   const [selected, setSelected] = useState(null);
   const [selectedSuggestion] = useState(null);
   const { executeQuery } = useQueryExecutor(); // Use the custom hook
+  const { loader } = useMessages();
 
   const handleDislikeClick = () => {
     setSelected("dislike");
@@ -22,7 +24,6 @@ const Component = ({ message }) => {
   const handleSuggestionClick = (suggestion) => {
     executeQuery(suggestion, false); //  Execute query on suggestion click
     window.scrollTo({ top: 0, behavior: "smooth" });
-
   };
 
   const downloadAsPDF = async () => {
@@ -74,13 +75,29 @@ const Component = ({ message }) => {
           <h2 className="text-base font-medium mb-4">{message.text}</h2>
         </div>
       ) : message.error ? (
+        <>
         <div>
           <h2 className="text-base font-medium mb-4">{message.text}</h2>
         </div>
+        <Suggestions
+            suggestions={message?.suggestions}
+            loader={loader}
+            handleSuggestionClick={handleSuggestionClick}
+            selectedSuggestion={selectedSuggestion}
+          />
+        </>
       ) : message.no_data ? (
+        <>
         <div>
           <h2 className="text-base font-medium mb-4">{message.text}</h2>
         </div>
+        <Suggestions
+            suggestions={message?.suggestions}
+            loader={loader}
+            handleSuggestionClick={handleSuggestionClick}
+            selectedSuggestion={selectedSuggestion}
+          />
+        </>
       ) : (
         <div className="mt-6 w-full max-w-3xl bg-white p-6 rounded-lg shadow-lg">
           <h2 className="text-base font-medium mb-4">{message.question}</h2>
@@ -92,21 +109,12 @@ const Component = ({ message }) => {
             {message.table && <Table data={message.table} />}
             {message.text && <Card data={message.text} />}
           </div>
-          <div className="grid grid-cols-2 gap-2 h-auto rounded-lg p-2 m-2 overflow-hidden">
-            {message.suggestions.slice(0, 3).map((suggestion, index) => (
-              <div
-                key={index}
-                onClick={() => handleSuggestionClick(suggestion)}
-                className={`p-2 bg-gray-100 rounded-full flex items-center justify-center text-center overflow-hidden text-sm cursor-pointer transition duration-200 ${
-                  selectedSuggestion === suggestion
-                    ? "bg-blue-300"
-                    : "hover:bg-blue-200"
-                } ${index === 2 ? "col-span-2" : ""}`} // M
-              >
-                <span className="block w-full">{suggestion}</span>
-              </div>
-            ))}
-          </div>
+          <Suggestions
+            suggestions={message.suggestions}
+            loader={loader}
+            handleSuggestionClick={handleSuggestionClick}
+            selectedSuggestion={selectedSuggestion}
+          />
 
           <hr className="mt-6 mb-6 -mx-6" />
           <div className="flex justify-between  mt-6">

@@ -8,13 +8,22 @@ import useQueryExecutor from "./hooks/useQueryExecutor";
 const App = () => {
   const { messages, loader } = useMessages();
 
+  const [suggestions] = useState([
+    "Show me the financial transactions recorded in 2024",
+    "What is the total weight being transported by all trolleys assigned to Rail R042?",
+    "Which vessels do we have in the database?",
+  ]);
   const [query, setQuery] = useState("");
   const { executeQuery } = useQueryExecutor();
 
-  const handleSend = () =>{
-     executeQuery(query, true);
-     setQuery('')
-    }
+  const handleSuggestionClick = (suggestion) => {
+    executeQuery(suggestion, false); //  Execute query on suggestion click
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+  const handleSend = () => {
+    executeQuery(query, true);
+    setQuery("");
+  };
 
   const handleKeyPress = (e) => {
     if (e.key === "Enter") {
@@ -43,7 +52,28 @@ const App = () => {
           />
         </svg>
       </div>
-      <div className="min-h-screen p-6 flex flex-col items-center">
+      <div className="min-h-screen p-6 flex flex-col items-center justify-center">
+        {!messages[0] && (
+          <>
+            <div className="flex flex-col justify-center items-center mb-24">
+              <h1 className="text-2xl font-bold mb-3">Welcome back!</h1>
+              <p className="font-semibold">To start analysing ,ask your own question</p>
+            </div>
+            <div className="flex w-full max-w-3xl space-x-4 items-stretch mb-4">
+              {suggestions?.map((suggestion, index) => (
+                <div
+                  className="flex-1 bg-white text-center p-4 rounded-lg shadow-md font-semibold text-sm"
+                  style={{ color: "#1B75BC" }}
+
+                  key={suggestion + index}
+                  onClick={() => handleSuggestionClick(suggestion)}
+                >
+                  {suggestion}
+                </div>
+              ))}
+            </div>
+          </>
+        )}
         <div className="mt-6 w-full max-w-3xl flex items-center bg-white shadow-md rounded-lg overflow-hidden px-4">
           <input
             type="text"
